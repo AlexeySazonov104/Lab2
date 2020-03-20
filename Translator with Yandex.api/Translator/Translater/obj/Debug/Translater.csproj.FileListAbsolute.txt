@@ -1,0 +1,14 @@
+C:\Users\alexe\Desktop\Translater with Yandex.api\Translater\Translater\bin\Debug\Translater.exe.config
+C:\Users\alexe\Desktop\Translater with Yandex.api\Translater\Translater\bin\Debug\Translater.exe
+C:\Users\alexe\Desktop\Translater with Yandex.api\Translater\Translater\bin\Debug\Translater.pdb
+C:\Users\alexe\Desktop\Translater with Yandex.api\Translater\Translater\obj\Debug\Translater.csprojAssemblyReference.cache
+C:\Users\alexe\Desktop\Translater with Yandex.api\Translater\Translater\obj\Debug\Views\MainWindow.g.cs
+C:\Users\alexe\Desktop\Translater with Yandex.api\Translater\Translater\obj\Debug\App.g.cs
+C:\Users\alexe\Desktop\Translater with Yandex.api\Translater\Translater\obj\Debug\Translater_MarkupCompile.cache
+C:\Users\alexe\Desktop\Translater with Yandex.api\Translater\Translater\obj\Debug\Translater_MarkupCompile.lref
+C:\Users\alexe\Desktop\Translater with Yandex.api\Translater\Translater\obj\Debug\Views\MainWindow.baml
+C:\Users\alexe\Desktop\Translater with Yandex.api\Translater\Translater\obj\Debug\Translater.g.resources
+C:\Users\alexe\Desktop\Translater with Yandex.api\Translater\Translater\obj\Debug\Translater.Properties.Resources.resources
+C:\Users\alexe\Desktop\Translater with Yandex.api\Translater\Translater\obj\Debug\Translater.csproj.GenerateResource.cache
+C:\Users\alexe\Desktop\Translater with Yandex.api\Translater\Translater\obj\Debug\Translater.exe
+C:\Users\alexe\Desktop\Translater with Yandex.api\Translater\Translater\obj\Debug\Translater.pdb
